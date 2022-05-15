@@ -11,7 +11,7 @@ Converts an optional type into the underlying type, or panic if the optional is 
 >Using this picture below, explain...
 >- What the error message means
 
-The main function expects to return a String variable, but is instead returning a String optional.
+The main function is expecting to return a String variable, but thing[0x03] is a different type (String optional).
 
 >- Why we're getting this error
 
