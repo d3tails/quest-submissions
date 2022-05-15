@@ -8,9 +8,8 @@ AuthAccount is a reference to the account signing the tranaction.
 
 >What is the difference between the prepare phase and the execute phase in the transaction?
 
-Prepare phase: Getting information from the AuthAccount (transaction signer).
-
-Execute phase: Interact with and change data/state of the smart contract.
+- Prepare phase: Getting information from the AuthAccount (transaction signer).
+- Execute phase: Interact with and change data/state of the smart contract.
 
 >This is the hardest quest so far, so if it takes you some time, do not worry! I can help you in the Discord if you have questions.
 > - Add two new things inside your contract:
